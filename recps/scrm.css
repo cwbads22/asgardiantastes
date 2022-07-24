@@ -16,7 +16,6 @@ body, html {
 
 .parallax {
     background-image: url('/asgardianrecipes/imgs/bolog.jpg');
-    
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
