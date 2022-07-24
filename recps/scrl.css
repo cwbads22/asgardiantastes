@@ -15,7 +15,7 @@ body, html {
 }
 
 .parallax {
-    background-image: url('/imgs/ramen.jpg');
+    background-image: url('/asgardianrecipes/imgs/ramen.jpg');
     
     height: 100%;
     background-position: center;
